@@ -13,7 +13,7 @@ You will need the standard data science libraries found in the Anaconda distribu
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in analyzing COVID-19 situation in Brazil. Specifically, I looked at the following questions:
+For this project, I was interestested in analyzing COVID-19 situation in Brazil. Understanding the shape, speed, and location of outbreaks. Specifically, I looked at the following questions:
 
 1. What is the total cases on 2021-03-19?
 2. What is the total new cases on 2021-03-19 (for last 24 hours)?
@@ -49,5 +49,7 @@ The main findings of the code can be found at the [blog post available here](htt
  
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+We have no complete official account of COVID-19 cases data in the Brazil, so we have to get this data from the public health authority in each Brazil state and territory (and the Federal District). This data we collect on some open data government sites, like OpenDataSUS.
 
 Must give credit to OpenDataSUS and Brazilian Open Data Portal for the data.  You can find the Licensing for the data and other descriptive information for the COVID-19 data on [OpenDataSUS](https://opendatasus.saude.gov.br/) and [Brazilian Open Data Portal](https://dados.gov.br/dataset).  
