@@ -9,21 +9,21 @@
 
 ## Installation <a name="installation"></a>
 
-You will need the standard data science libraries found in the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+You will need the standard data science libraries found in the [Anaconda](https://docs.anaconda.com/anaconda/install/) distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in analyzing COVID-19 situation in Brazil. Understanding the shape, speed, and location of outbreaks. Specifically, I looked at the following questions:
 
-1. What is the total cases on 2021-03-19?
-2. What is the total new cases on 2021-03-19 (for last 24 hours)?
-3. What is the total recovered cases on 2021-03-19?
-4. What is the total followup cases on 2021-03-19?
-5. What is the cumulative COVID-19 deaths on 2021-03-19?
-6. What is the total new deaths on 2021-03-19 (for last 24 hours)?
-7. What is the Incidence Coefficient of Covid-19?
-8. What is the Mortality Coefficient for Covid-19?
-9. What is the Covid-19 Lethality Rate?
+1. What was the total cases on 2021-03-19?
+2. What was the total new cases on 2021-03-19 (for last 24 hours)?
+3. What was the total recovered cases on 2021-03-19?
+4. What was the total followup cases on 2021-03-19?
+5. What was the cumulative COVID-19 deaths on 2021-03-19?
+6. What was the total new deaths on 2021-03-19 (for last 24 hours)?
+7. What was the Incidence Coefficient of Covid-19?
+8. What was the Mortality Coefficient for Covid-19?
+9. What was the Covid-19 Lethality Rate?
 10. Which region(zone) has the highest cumulative COVID-19 cases on 2021-03-19?
 11. Which states have the highest cumulative COVID-19 cases on 2021-03-19?
 12. Which cities have the highest cumulative COVID-19 cases on 2021-03-19?
@@ -36,9 +36,9 @@ For this project, I was interestested in analyzing COVID-19 situation in Brazil.
 
 The following are the files available in this repository:
 
-* `BrazilCovid19_DatAnalysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process
+* `BrazilCovid19_DatAnalysis.ipynb` - a JUPYTER notebook containing all performed analisys. It follows the CRISP-DM process.
 
-* `COVIDBR.csv` file that I zipped in the `COVIDBR.zip` file, because of the size.
+* `COVIDBR.zip` - contains the  data analysed by the  `.ipynb` file. To use it properly, unzip `COVIDBR.csv` and put it in the same directory as the `.ipynb` file.
 
 The State Health Secretariats and Government is releasing a series of data files with cumulative counts of coronavirus cases in Brazil, at the state and county level, over time. They are compiling this data from state and local governments and health departments in an attempt to provide a complete record of the ongoing outbreak. You can find the original CSV files available on OpenDataSUS and Brazilian Open Data Portal.
 
