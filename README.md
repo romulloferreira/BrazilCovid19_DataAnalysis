@@ -44,7 +44,7 @@ The State Health Secretariats and Government is releasing a series of data files
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [blog post available here](https://github.com/romulloferreira/BrazilCovid19_DataAnalysis). And other conclusions at the end of the `BrazilCovid19_DatAnalysis.ipynb` file.
+The main findings of the code can be found at the [blog post available here](https://romulloferreira.medium.com/brazil-covid-19-data-analysis-646c78d22d61). And other conclusions at the end of the `BrazilCovid19_DatAnalysis.ipynb` file.
 
  
 
